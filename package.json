@@ -1,0 +1,24 @@
+{
+  "name": "apitestquizz",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laurymesa01/ApiTestQuizz.git"
+  },
+  "author": "Laura Elena Mesa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/laurymesa01/ApiTestQuizz/issues"
+  },
+  "homepage": "https://github.com/laurymesa01/ApiTestQuizz#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "json-serve": "^0.1.0",
+    "json-server": "^1.0.0-beta.1"
+  }
+}
